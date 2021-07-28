@@ -16,7 +16,7 @@
                     if($i==$n2){
                         echo "$i";
                     }else{
-                        echo "$i,";
+                        echo "$i, ";
                     }  
                 }
                 
