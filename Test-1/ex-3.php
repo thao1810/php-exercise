@@ -9,9 +9,9 @@
 <?php
         function is_same_num($n1, $n2){
             if($n1==$n2){
-                return true;
+                return "true";
             }else{
-                return false;
+                return "false";
             }
         }
         $num1 = isset($_GET['num1']) ? $_GET['num1'] : 0;
