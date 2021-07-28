@@ -30,7 +30,7 @@
         
     ?>
 <form action="#" method="get">
-        <table>
+        <table style = "margin:auto">
             <tr>
                 <td><lable for="num1">Number1</lable></td>
                 <td><input type="text" name="num1" id="num1"></td>
